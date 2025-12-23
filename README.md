@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Harry&fontSize=52&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Globetrotta&fontSize=52&fontAlignY=35" alt="Header" />
 </p>
 
 <p align="center">
@@ -47,3 +47,4 @@ I build production-grade automation where **agentic workflows** are governed by 
 ## IT Architecture & Service Operations Lead
 - XR8 Technology Services Ltd.
 - Phone: 01604 218281
+- Email: info@xr8.tech
